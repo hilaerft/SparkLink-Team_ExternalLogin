@@ -34,7 +34,7 @@
 ### 1. 克隆或下载项目
 
 ```bash
-git clone https://github.com/your-repo/yggdrasil2.git
+[git clone https://github.com/your-repo/yggdrasil2.git](https://github.com/hilaerft/SparkLink-Team_ExternalLogin.git)
 cd yggdrasil2
 ```
 
